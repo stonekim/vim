@@ -165,7 +165,7 @@ autocmd BufNewFile * normal G
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 "键盘命令
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
-:nmap <silent> <F9> <ESC>:Tlist<RETURN>
+:nmap <silent> <F4> <ESC>:Tlist<RETURN>
 " shift tab pages
 map <S-Left> :tabp<CR>
 map <S-Right> :tabn<CR>
